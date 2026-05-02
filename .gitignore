@@ -2,3 +2,4 @@ wip/
 outbox/
 inbox/
 logs/
+.DS_Store
