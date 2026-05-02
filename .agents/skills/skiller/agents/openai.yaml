@@ -1,0 +1,6 @@
+display_name: Skiller
+short_description: Meta-agent that orchestrates multi-step jobs end to end — plans tasks, finds skills, executes pipeline, delivers to inbox/.
+icon: robot
+trigger: $skiller
+version: "1.0.0"
+author: juanlazarde@gmail.com
